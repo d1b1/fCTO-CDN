@@ -1,1 +1,1 @@
-Test of the idea of using Github as a CDN.
+Test of the idea of using Github as a CDN. Noop
